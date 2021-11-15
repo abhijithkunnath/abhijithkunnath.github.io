@@ -333,6 +333,9 @@ html {
     }
   }
   }
-
+  .hom{background-image: url("/images/tourism5.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
 
 
